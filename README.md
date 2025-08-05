@@ -69,7 +69,7 @@ An IoT-based ECG monitoring system using **ESP8266**, **AD8232 sensor**, and **M
 **Vishwa Shah**  
 📧 [vishwashah003@gmail.com](mailto:vishwashah003@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/vishwashah151003)  
-🌐 GitHub: [@v-ish1234](https://github.com/v-ish1234)
+🌐 GitHub: [@VishwaShah1510](https://github.com/VishwaShah1510)
 
 ---
 
